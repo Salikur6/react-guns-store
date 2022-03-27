@@ -3,7 +3,7 @@ import './Menu.css'
 
 const Menu = () => {
     return (
-        <div>
+        <div className='navbar'>
             <h1>Kopa Salik Store</h1>
         </div>
     );
